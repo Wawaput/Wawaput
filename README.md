@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606">
+<img align="right" alt="Coding" width="400" src="https://neocha-content.oss-cn-hongkong.aliyuncs.com/wp-content/uploads/sites/2/2016/11/1041uuu-13.gif">
 
 Hi, I'm Benjie! I'm a passionate learner with a curiosity for discovering new things. In my free time, you can often find me playing video games, as I enjoy the thrill and challenge they bring.
 Currently, I am studying to become a professional data analyst. My goal is to excel in data analysis and dive deeper into various aspects of the field. I'm excited about the opportunities that lie ahead and look forward to expanding my knowledge and skills.
