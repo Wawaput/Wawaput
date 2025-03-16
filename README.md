@@ -1,4 +1,6 @@
-# 💫 About Me: Hi, I'm Benjie! I'm a passionate learner with a curiosity for discovering new things. In my free time, you can often find me playing video games, as I enjoy the thrill and challenge they bring.
+# 💫 About Me:
+
+Hi, I'm Benjie! I'm a passionate learner with a curiosity for discovering new things. In my free time, you can often find me playing video games, as I enjoy the thrill and challenge they bring.
 Currently, I am studying to become a professional data analyst. My goal is to excel in data analysis and dive deeper into various aspects of the field. I'm excited about the opportunities that lie ahead and look forward to expanding my knowledge and skills.
 
 Thanks for stopping by!
